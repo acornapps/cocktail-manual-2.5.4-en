@@ -55,7 +55,7 @@ The input fields vary depending on the provider and account type. For bare-metal
 
 ##### 
 
-##### d\) Enter the monitoring information \(account, type, and region\).![](/assets/EN/2.5/5.1.1_7.png)
+##### d\) Enter the monitoring information \(Master URL, Ingress Host, Monitoring Host and Monitoring Port\).![](/assets/EN/2.5/5.1.1_7.png)
 
 | **Monitoring Info ** | **Description** |
 | :--- | :--- |

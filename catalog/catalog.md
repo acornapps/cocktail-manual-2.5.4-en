@@ -16,7 +16,7 @@ The catalog feature is divided into service catalogs and Cocktail catalogs.
 | Cocktail Catalog | Default catalog provided by Cocktail Cloud |
 | Filter Catalog | Search for desired template |
 | Template | Collection of servers that constitute an application |
-| Deploy | Deploy server via catalog |
+| Deployment | Deploy server via catalog |
 | Edit | Edit catalog information |
 
 

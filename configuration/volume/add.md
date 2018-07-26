@@ -32,14 +32,14 @@ This feature allows you to add storage volumes.
 
 | Storage Plugin | **NFS** Dynamic |
 | :--- | :--- |
-| Policy | The dynamic plugin supports the Retain and Delete policies |
+| Reclaim Policy | The dynamic plugin supports the Retain and Delete policies |
 | Storage Class Name | cocktail-nfs \(Default value\) |
 
 * **If using NFS static storage plugin**![](/assets/EN/2.5/5.4.1_5.png)
 
 | Storage Plugin | **NFS** Static |
 | :--- | :--- |
-| Policy | The static plugin only supports the Retain policy |
+| Reclaim Policy | The static plugin only supports the Retain policy |
 | Parameter | Server: IP address of storage. Path: Mount path |
 
 * **If using AWS storage plugin**![](/assets/EN/2.5/5.4.1_6.png)

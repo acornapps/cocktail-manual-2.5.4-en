@@ -8,14 +8,14 @@ This feature allows you to add storage volumes.
 
 ##### b**\) Select a volume from the detailed cluster screen**![](/assets/EN/2.5/5.4.1_2.png)
 
-##### c\) Enter cluster, name, description, storage plugin, policy, and storage class name in order.![](/assets/EN/2.5/5.4.1_3.png)
+##### c\) Enter cluster, name, description, storage plugin, Reclaim Policy, and storage class name in order.![](/assets/EN/2.5/5.4.1_3.png)
 
 | **Storage Info** | **Description** |
 | :--- | :--- |
 | Name | PV name |
 | Description | User-defined PV description |
-| Policy | PV usage policy \(RETAIN/DELETE\) |
 | Storage Plugin | Type of storage \(NFS Dynamic/Static, EBS, Google Persistent Disk, Azure Disk\) |
+| Reclaim Policy | PV usage policy \(RETAIN/DELETE\) |
 | Storage Class Name | Class name registered in k8s |
 | Parameters | PV environment settings |
 

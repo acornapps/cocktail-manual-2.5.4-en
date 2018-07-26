@@ -10,7 +10,7 @@ As the use of cloud computing became widespread, there has been a growing demand
 
 
 In this context, the proliferation of container technology can be considered a natural evolution. Many companies have adopted container technology, and the trend is only continuing. 
-\(Reference: [http://redmonk.com/fryan/2017/09/10/cloud- native-technologies-in-the-fortune-100](http://redmonk.com/fryan/2017/09/10/cloud- native-technologies-in-the-fortune-100)\)
+\(Reference: [http://redmonk.com/fryan/2017/09/10/cloud-native-technologies-in-the-fortune-100](http://redmonk.com/fryan/2017/09/10/cloud-native-technologies-in-the-fortune-100)\)
 
 As a technology that packages applications or services into independent, executable units, containers provide the same development and operational experience regardless of infrastructure. Therefore, cloud management can be standardized, and development and operational efforts can be reduced from infrastructure to services. Notably, containers provide the advantage of managing a multi/hybrid cloud under a cohesive environment.
 

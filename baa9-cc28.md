@@ -20,13 +20,13 @@ This document is for Cocktail Cloud users. The following sections are based on C
 
 ### [3. Service](/c11c-be44-c2a4.md)
 
-##### 3.1 Application Map
+##### 3.1 Application Management
 
-##### 3.2 Build
+##### 3.2 Build Management
 
 ### [4. Catalog](/catalog/catalog.md)
 
-##### 4.1 Create Catalog
+##### 4.1 Save Catalog
 
 ##### 4.2 Deploy Catalog
 

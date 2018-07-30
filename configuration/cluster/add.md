@@ -6,12 +6,13 @@ This feature allows you to add clusters.
 
 ##### a\) Cluster → Click the [+] button in the top-right corner.![](/assets/EN/2.5/5.1.1_1.png)
 
-##### b\) Enter basic information \(name, k8s version, and description\).![](/assets/EN/2.5/5.1.1_2.png)
+##### b\) Enter basic information \(name, k8s version, and description\).![](/assets/EN/2.5.3/5.1.1_2.png)
 
 | **Basic Information** | Description |
 | :--- | :--- |
 | Name | Name of cluster to be added |
 | k8s version | Kubernetes version installed on cluster \(e.g., 1.8.13\) |
+| ID | Cluster unique ID (user defined), required for alarm message redirect |
 | Description | User-defined cluster description |
 
 ##### 

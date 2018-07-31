@@ -13,12 +13,6 @@ We provide the following services:
 
 **Support**
 
-Cloud Team - Namutech Co., Ltd.
-
-Contact: Byoung-oh Lee, Dept. Head
-
-Cell: 010-6698-7762
-
 Email: byoungoh.lee@namutech.co.kr
 
 **Product Developer**
@@ -26,8 +20,8 @@ Email: byoungoh.lee@namutech.co.kr
 Acornsoft Co., Ltd
 
 * Address: Hwakwang Center, 4th Fl., 239 Yeoksam-ro, Gangnam-gu, Seoul
-* Tel : 02-554-0301
-* Fax : 02-554-0302
+* Tel : +82) 02-554-0301
+* Fax : +82) 02-554-0302
 
 
 
